@@ -7,6 +7,6 @@ current and next round.
 This game was made for PC / Android.
 
 <p float="left">
-  <img src="./BoxCrusher.png" alt="BoxCrusher">
+  <img src="./BoxCrusher.PNG" alt="BoxCrusher">
 </p>
 Try it out: https://simmer.io/@JoNi/box-crusher
